@@ -23,4 +23,4 @@ Que retorna no GET como:
 <br>
 ![returnget](https://user-images.githubusercontent.com/92277701/201722991-0e3c069f-1424-4a7c-a646-c12deaf8ba6a.png)
 <br>
-E assim podemos cadastrar novos candidatos
+E assim podemos cadastrar novos candidatos.
