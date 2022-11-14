@@ -12,7 +12,7 @@ Utilizei um banco de dados em nuvem (h2).
 Pois foi o caminho que mapeei (@RequestMapping) em CandidatosController.java na minha aplicação.
 <br>
 # Na área Model definimos as keys que queremos retornar em nossa aplicação 
-id, nome, vaga, data_nasciento
+id, nome, vaga, data_nascimento
 <br>
 # E por fim startamos a aplicação no Springboot e voltamos ao Postman
 <br>
