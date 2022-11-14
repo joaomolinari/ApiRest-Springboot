@@ -16,7 +16,7 @@ id, nome, vaga, data_nascimento
 <br>
 # E por fim startamos a aplicação no Springboot e voltamos ao Postman
 <br>
-# Aqui cadastramos o novo candidato!
+# Aqui cadastramos o novo candidato.
 ![cadastropost](https://user-images.githubusercontent.com/92277701/201722678-cde90956-0a42-4558-9257-c0b39662f7a2.png)
 <br>
 # Que retorna no GET como:
